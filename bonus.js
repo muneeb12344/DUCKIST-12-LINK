@@ -1,4 +1,4 @@
 //bonus.moneygift.shop
 var price = 494;
-var upi = "successfully727372@sbi";
+var upi = "ombk.aade682795kkjdjcyn4@mbk";
 console.log(price);
