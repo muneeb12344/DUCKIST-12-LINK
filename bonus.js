@@ -1,4 +1,4 @@
 //bonus.moneygift.shop
-var price = 794;
+var price = 494;
 var upi = "merchant1069022.augp@aubank";
 console.log(price);
